@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1002076090459",
+    "project_id": "demoformac-edf0e",
+    "storage_bucket": "demoformac-edf0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002076090459:android:9dcb5c984e1e8092e64f7e",
+        "android_client_info": {
+          "package_name": "com.example.login_demo_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002076090459-q6up0ejmaq98v2mb7kthaknnbs4t41ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbA2AwXjbcwq3eyqDBHEmVVo_5OA6rn6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002076090459-q6up0ejmaq98v2mb7kthaknnbs4t41ka.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002076090459-rr8cgc7mam35ecbumvu6j8c51s5jjqe6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demoForMac"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
